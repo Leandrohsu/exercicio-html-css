@@ -40,7 +40,8 @@ header li a {
 
 .articles article img {
     /* height: 180px; */
-    height: 100%;
+    height: 32%;
+    
 }
 
 .articles article {
@@ -56,7 +57,7 @@ section h2,
     margin-bottom: 16px;
 }
 
-.articles article h3 {
+.articles article h3{
     margin-top: 8px;
     margin-bottom: 8px;
 }
@@ -94,7 +95,6 @@ section h2 {
 #sports .articles article a {
     background-color: #009432;
 }
-
 #economy {
     background-color: #f8f59f;
 }
@@ -112,9 +112,9 @@ section h2 {
 }
 
 #fun {
-    background-color: #f34c4c
+    background-color: #f881bc
 }
 
 #fun .articles article a {
-    background-color: rgb(245, 91, 80);
+    background-color: rgb(241, 81, 134);
 }
